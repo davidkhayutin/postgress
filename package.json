@@ -1,0 +1,22 @@
+{
+  "name": "connectingpostgress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkhayutin/postgress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkhayutin/postgress/issues"
+  },
+  "homepage": "https://github.com/davidkhayutin/postgress#readme",
+  "dependencies": {
+    "pg": "^7.5.0"
+  }
+}
